@@ -7,4 +7,3 @@ app.listen(PORT, ()=>{
     console.log("server working");
 });
 
-module.exports = app;
